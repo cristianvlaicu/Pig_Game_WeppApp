@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;👉 When finishes this game? When on player acummulate 100 points in his stable score. In that case, game finishes, tell the winner and they can restart a new game pushing the "NEW GAME" button, where all scores turn to 0 and the player 1 starts the game, allways.
 
-&nbsp;&nbsp;👉 You can run and play this game clonning the repository and run the index.html in Live Server, or download the zip file and open the index.html in your web browser. Or you can click on the Surge web link to use it directly on your browser:<a target="_blank" href="" ><b></b>
+&nbsp;&nbsp;👉 You can run and play this game clonning the repository and run the index.html in Live Server, or download the zip file and open the index.html in your web browser. Or you can click on the Surge web link to use it directly on your browser: <a target="_blank" href="https://pig-game-vlaicu.netlify.app/" >https://pig-game-vlaicu.netlify.app/<b></b>
 
 &nbsp;&nbsp;👉 I attach the flowchart and some screen prints here to can follow the logic flow of the app:
 
