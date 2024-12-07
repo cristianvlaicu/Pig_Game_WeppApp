@@ -12,6 +12,8 @@ html {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
   font-family: 'Nunito', sans-serif;
   font-weight: 400;
   height: 100vh;
@@ -170,4 +172,14 @@ main {
 
 .hidden {
   display: none;
+}
+
+.footer__copyright {
+  margin-top: 2rem;
+  color: white;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: white;
 }
